@@ -1,0 +1,30 @@
+button {
+	display: block; 
+	margin-top: 15px;
+	color: #79d45b;
+	border-color: #79d45b;
+	background-color: black;
+	font-family: monospace;
+	font-size: 20px;
+
+
+}
+
+button:hover {
+	border-color: black;
+	color:black;
+	background: green;
+}
+
+img {
+	width:200px;
+}
+
+body {
+	background-color: #000000;
+	font-family: monospace;
+	margin-left: 35px;
+	margin-right: 35px;
+	margin-top: 35px;
+	font-size: 20px;
+}
